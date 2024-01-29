@@ -1,16 +1,114 @@
-### Hi there 👋
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>A.L.A.X</title>
+    <link rel="stylesheet" type="text/css" href="alax.css">
+    <link rel="shortcut icon" href="imagenes/qns.png" type="image/x-icon">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <p class="logo">A.L.A.X</p>
+            <nav>
+                <a href="#somos-alax">Quienes Somos</a>
+                <a href="#somos-vision">Vision</a>
+                <a href="#somos-mision">Mision</a>
+                <a href="#nuestros-alax">Nuestros servicios</a>
+            </nav>
+        </div>
+    </header>
 
-<!--
-**jhohan1235/jhohan1235** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    <section id="hero">
+        <h1>A.L.A.X <br>Apoyo empresarial</h1>
+        <button>EMPECEMOS!</button>
+    </section>
+<div class="maxheit">
+    <section id="somos-alax">
+        <div class="container">
+            <div class="img-container"></div>
+            <div class="texto">
 
-Here are some ideas to get you started:
+                <h2>¿Quienes somos?<span class="color-acento">A.L.A.X</span></h2>
+                <p>una empresa con mas de nueve años de experiencia 
+                    en el mercado desarollando diferentes de la ingenieria civil 
+                    deseños arquitectonicos,estructurales,topografia y patologia 
+                    estructural,remodelaciones,urbanismo,construccion de casas 
+                    campestres de obras de vis,convencional, 
+                    a porticado metalico, picinas, logrando aprevechar las nuevas 
+                    tecnologias de la industria apoyados con la NSR-10 y asi lograr 
+                    la construccion de los diferentes proyectos a nuestros clientes 
+                    con mas de 150 proyectos en 9 años.</p>
+            </div>
+        </div>
+    </section>
+    <section id="somos-vision">
+        <div class="container">
+            <div class="img-container"></div>
+            <div class="texto">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+                <h2><span class="color-acento">Vision</span></h2>
+                <p>Desarrollo de proyectos tecnológicos de nuevas construcciones en la industria de la ingeniería 
+                    manejando una mejor variedad de productos estructurales de acabados energéticos etc. Que 
+                    garanticen una mayor versatilidad con las nuevas tecnologías constructivas que están 
+                    llegando al mercado nacional generando una mayor rentabilidad oportunidad
+                     y crecimiento de negocios nacionales e internacionales constructivos.</p>
+            </div>
+        </div>
+    </section>
+    <section id="somos-mision">
+        <div class="container">
+            <div class="img-container"></div>
+            <div class="texto">
+
+                <h2> <span class="color-acento">Mision</span></h2>
+                <p>Desarrollo de proyectos tecnológicos de nuevas construcciones en la industria de la ingeniería manejando una
+                     mejor variedad de productos estructurales de acabados energéticos etc. Que garanticen una mayor versatilidad con las nuevas tecnologías 
+                    constructivas que están llegando al mercado nacional generando una mayor rentabilidad oportunidad y 
+                    crecimiento de negocios nacionales e internacionales constructivos.</p>
+            </div>
+        </div>
+    </section>
+</div>
+    <section id="nuestros-alax">
+        <div class="container">
+            <h2>Nuestros servicios</h2>
+            <div class="servicios">
+                <div class="carta">
+                    <h3>cotizacion</h3>
+                    <p>Nuestros clientes ponen en nuestras manos, la construcción de las 
+                        casas de sus sueños, garantizándole confianza en nuestra 
+                        empresa.</p>
+                
+                </div>
+                <div class="carta">
+                    <h3>ejecuccion</h3>
+            <p>Cuidamos todos los procesos constructivos y recomendaciones que se 
+             tienen en cuenta al momento de realizar labores, de nuevas tecnologías 
+              en desarrollo.</p>
+              
+                </div>
+                <div class="carta">
+                    <h3>Entrega</h3>
+           <p>Nuestros clientes, quedan totalmente satisfechos con la calidad del trabajo y
+             cada uno de los detalles que ellos 
+            plasmaron para hacer realidad su proyecto de la mano de nuestros profesionales.</p>
+
+            </div>  
+            </div>
+        </div>
+    </section>
+        </div>
+    </section>
+
+    <section id="final">
+        <h2>contactanos</h2>
+        <button>APLICÁ YA!</button>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>&copy; A.L.A.X 2024</p>
+        </div>
+    </footer>
+</body>
+</html>
